@@ -1,5 +1,10 @@
 <?php
-$lang ['savsoft_quiz'] = "Game Quiz 就職ガンバロー";
+
+$lang ['school'] = "岩谷学園テクノビジネス横浜保育専門";
+$lang ['class'] = "情報ビジネス科　2年2組";
+$lang ['team'] = "Fantastic チーム";
+
+$lang ['savsoft_quiz'] = "GameQuiz 就職ガンバロー";
 $lang ['installation_process'] = "インストールプロセス";
 $lang ['installation_completed'] = "インストールが完了しました。ログインするためにベースURLにアクセスしてください（base_url）。<br> <br>デフォルトのログイン情報：<br>メール：admin@example.com <br>パスワード：admin <br> <br>詳細やカスタマイズについては、<a href='http://savsoftquiz.com/'> www.SavsoftQuiz.com/ </a>をご覧ください。";
 $lang ['installation_failed'] = "インストールに失敗しました";
@@ -164,7 +169,7 @@ $lang ['all_level'] = "すべてのレベル";
 $lang ['no_questions_available'] = "選択したカテゴリとレベルを追加したい質問を選択してください。";
 $lang ['close'] = "クイズに戻る";
 $lang ['category_list'] = "カテゴリリスト";
-$lang ['category_name'] = "カテゴリ名";
+$lang ['category_name'] = "カテゴリー名";
 $lang ['level_list'] = "レベルリスト";
 $lang ['level_name'] = "レベル名";
 $lang ['select_group'] = "グループの選択";

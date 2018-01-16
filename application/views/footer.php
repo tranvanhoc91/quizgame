@@ -1,3 +1,5 @@
+
+<!-- 
 <div class="container" style="text-align:right;clear: both;">
 	<div class="copyright">
 		岩谷学園テクノビジネス横浜保育専門<br/>
@@ -5,7 +7,7 @@
 		００チーム
 	</div>
 </div>
-
+ -->
 
 <?php 
 if($this->config->item('tinymce')){
